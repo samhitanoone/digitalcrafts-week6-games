@@ -2,10 +2,13 @@
     width: 20px;
     height: 20px;
     border-radius: 20px;
-    background-color: #999999;
     display: inline-block;
 }
 
-.pebble:first-child {
+.notTaken {
+    background-color: #999999;
+}
+
+.taken {
     background-color: #ffb600
 }
